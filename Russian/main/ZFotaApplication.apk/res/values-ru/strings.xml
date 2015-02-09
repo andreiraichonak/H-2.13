@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FotaApplication</string>
+    <string name="find_firmware_title">Обнаружение новго ПО...</string>
+    <string name="find_firmware_warning_title">Прошивка тачскрина будет обновлена во время обновления ПО:</string>
+    <string name="find_firmware_warning"><li>Не прикасайтесь к экрану аппарата</li>"
+"<li>Не нажимайте кнопок телефона в процессе прошивки</li></string>
+    <string name="update_cancel">Отмена</string>
+    <string name="dlg_ok">OK</string>
+    <string name="upgrade_firmware">Запуск обновления</string>
+    <string name="upgrade_title">Обновление…</string>
+    <string name="upgrade_warning">Отложите телефон в сторонку до окончания процесса обновления.</string>
+    <string name="low_battery_warning">Низкий заряд батареи</string>
+    <string name="unplug_charger">Отключите соединение по USB!</string>
+    <string name="charge_text">Заряд батареи менее 20%, зарядите батарею для обновления.</string>
+    <string name="upgrade_finished">ПО успешно обновлено!</string>
+    <string name="upgrade_failed">ПО не обновлено!</string>
+    <string name="upgrade_failed_summary">Чтобы попробовать обновиться еще раз, перезагрузите телефон.</string>
+    <string name="finish_laugh">: )</string>
+    <string name="finish_cry">: (</string>
+    <string name="alert_image_description">внимание</string>
+    <string name="caution">АХТУНГ!!!</string>
+</resources>
