@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/card_tips_layout" android:paddingTop="@dimen/card_tips_view_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:kg_prv="http://schemas.android.com/apk/res/com.android.keyguard">
+    <cn.nubia.notification.tips.NotificationIcon android:layout_gravity="center_horizontal" android:id="@id/notification_phone_layout" android:layout_width="@dimen/lockscreen_card_tips_width" android:layout_height="@dimen/lockscreen_card_tips_height" android:layout_marginTop="@dimen/lockscreen_card_tips_first_top_margin" kg_prv:type="1" />
+    <cn.nubia.notification.tips.NotificationIcon android:layout_gravity="center_horizontal" android:id="@id/notification_mms_layout" android:layout_width="@dimen/lockscreen_card_tips_width" android:layout_height="@dimen/lockscreen_card_tips_height" kg_prv:type="0" />
+    <cn.nubia.notification.tips.NotificationIcon android:layout_gravity="center_horizontal" android:id="@id/notification_other_layout" android:layout_width="@dimen/lockscreen_card_tips_width" android:layout_height="@dimen/lockscreen_card_tips_height" kg_prv:type="2" />
+</LinearLayout>
